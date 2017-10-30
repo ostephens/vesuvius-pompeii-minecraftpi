@@ -1,0 +1,30 @@
+location|text
+Forum|You are where traders and citizens met.
+Forum|It was used as a market.
+Forum|It was made up of separate temples and buildings including the Bascilica and the Temple Of Jupiter shown here.
+Jupiter|You are in front of The Temple Of Jupiter.
+Jupiter|This is where you would listen to the priests making speeches.
+Jupiter|Why not walk up the steps to the Cella where you would pray on the rugs?
+Overview|Welcome to the house of the tragic poet
+Overview|On either side of you are the Taberna or shops
+Overview|In front of you is the Atrium or entrance hall
+Overview|Next to you are the Cubiculum or small rooms
+Overview|In front of you is the Peristylum or garden
+Overview|In the far corner there is the Triclinium or dining room
+Atrium|This is the atrium
+Atrium|This is used for public meetings
+Atrium|There is a hole in the roof to air it
+Atrium|Below this there is a pit to collect rain water
+Cubicula|These small rooms are the Cubiclum
+Cubicula|Cubicula are used as private rooms and libraries
+Peristylum|The peristylum is an open courtyard within the house
+Peristylum|Instead of surrounding their houses with large lawns and gardens the Romans create their gardens inside their villas
+Tablinium|Directly behind the atrium is a room open on two sides though both sides can be closed with curtains or folding doors
+Tablinium|In this room the family records are stored. Rich families would display the images and busts of famous ancestors
+Tablinium|In this room the master of the house the paterfamilias will greet his many friends on their morning visits
+Taberna|The front of the house is rented out as shops
+Toilet|This is the toilet
+Toilet|They used a sponge on a stick to wipe their bottoms
+Triclinium|This is where they would dine
+Triclinium|It is called the triclinium which means the three that recline
+End|At 1am on Saturday 24th of August 79CE Vesuvius erupted and by 2am it was so dark it seemed like night and the ash had made a stack a meter deep
